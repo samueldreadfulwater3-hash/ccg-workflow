@@ -1,4 +1,5 @@
-# 命令参考
+/ccg:context init
+/ccg:context log "选 PostgreSQL 是因为需要 JSONB"# 命令参考
 
 28 个命令，全部 `/ccg:` 开头。按用途分了几组。
 
